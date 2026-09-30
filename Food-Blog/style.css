@@ -1,0 +1,99 @@
+
+
+
+
+
+#main-title{
+
+ font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.title{
+
+ color: blue;
+
+
+}
+
+
+
+#logo{
+
+ width: 40vw;
+
+ height: 50vh;
+ 
+
+}
+
+
+#header{
+
+ background-color: aliceblue
+
+}
+
+
+
+
+
+
+
+
+article{
+
+ width: 50vw;
+
+ min-height: 50vh;
+
+
+}
+
+
+.article-image{
+
+
+ width: 25vw;
+ 
+ height: 50vh;
+
+}
+
+.article-link{
+
+ background-color: aquamarine;
+
+
+}
+
+.article-link:hover{
+
+
+ background-color: blueviolet;
+
+}
+
+
+
+main{
+
+
+ background-image: url(./media/Sfondo.jpg);
+
+ background-repeat: no-repeat;
+
+ background-position: center;
+
+ background-size: cover;
+
+
+}
